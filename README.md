@@ -10,4 +10,4 @@ Play OP-Z.
 
 [Dribbble](https://dribbble.com/Volorf) | [Twitter](https://twitter.com/Volorf) | [Instagram](https://www.instagram.com/olegdesignfrolov/)
 
-![](https://raw.githubusercontent.com/Volorf/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volorf)](https://github.com/anuraghazra/github-readme-stats)
