@@ -10,6 +10,8 @@ Play OP-Z.
 
 [Dribbble](https://dribbble.com/Volorf) | [Twitter](https://twitter.com/Volorf) | [Instagram](https://www.instagram.com/olegdesignfrolov/)
 
+{{ STARS }}
+
 <!--
 **Volorf/Volorf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
