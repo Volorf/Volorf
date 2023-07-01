@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Love designing and coding.
-
 Design and prototype cool stuff at @LIV.
 
 Experiment with Interaction Design and AR/VR. 
