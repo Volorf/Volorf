@@ -2,7 +2,7 @@
 
 Design and prototype cool stuff at @LIV.
 
-Experiment with Interaction Design and AR/VR. 
+Experiment with Interaction Design, explore AR/VR. 
 
 Develop [VR voxel editor](https://twitter.com/Volorf/status/1305406161710125056) and create [Figma Plugins](https://www.figma.com/@volorf).
 
