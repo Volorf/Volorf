@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Design and prototype cool stuff at @LIV.
+I'm designing and engineering cool stuff at @LIV.
 
 Experiment with Interaction Design, explore AR/VR. 
 
