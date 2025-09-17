@@ -12,4 +12,4 @@ Play <strike>OP-Z</strike> EP-133.
 | - | - | - | - |
 | <a href="https://github.com/Volorf/xr-prototypes#spatial-bouncing-dvds"><img src="https://github.com/Volorf/xr-prototypes/raw/main/Images/161_spatial_bouncing_dvds.gif" width="100%" /> | <a href="https://github.com/Volorf/xr-prototypes#vertical-finger-menu"><img src="https://github.com/Volorf/xr-prototypes/raw/main/Images/164_finger_menu_vertical.gif" width="100%" /> | <a href="https://github.com/Volorf/xr-prototypes#depth-finger-menu"><img src="https://github.com/Volorf/xr-prototypes/raw/main/Images/173_finger_menu_depth.gif" width="100%" /> | <a href="https://github.com/Volorf/xr-prototypes#circular-finger-menu"><img src="https://github.com/Volorf/xr-prototypes/raw/main/Images/178_spatial_circular_finger_menu.gif" width="100%" /> |
 
-[Dribbble](https://dribbble.com/Volorf) | [Twitter](https://twitter.com/Volorf) | [Instagram](https://www.instagram.com/olegdesignfrolov/)
+[Twitter](https://x.com/Volorf) | [Linkedin](https://www.linkedin.com/in/olegfrolovdesign/)
