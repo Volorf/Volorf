@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm designing and engineering cool stuff at @LIV.
+I'm designing and engineering cool stuff at @EvenRealities.
 
 Experiment with Interaction Design, explore AR/VR. 
 
